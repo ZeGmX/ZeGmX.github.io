@@ -135,7 +135,7 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=p6O01B8AAAAJ
-  - icon: orcid
+  - icon: icon:orcid
     icon_pack: brands
     link: https://orcid.org/0000-0003-2991-5573
   - icon: github
