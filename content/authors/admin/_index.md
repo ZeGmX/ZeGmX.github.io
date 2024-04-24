@@ -39,7 +39,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Haptics / Computer Science
+    - course: PhD (Haptics / Computer Science)
       institution: INSA Rennes / IRISA, France
       year: 2022 - 2025
     - course: Master of Research (Computer Science)
@@ -96,22 +96,31 @@ skills:
     items:
       - name: Cinema and series
         description: ''
-        percent: 100
         icon: film
         icon_pack: heroicon
       - name: Fishing
         description: ''
-        percent: 100
         icon: ''
         icon_pack: heroicon
       - name: Robotics and automation
         description: 'Arduino beginner'
-        percent: ''
         icon: arduino
         icon_pack: devicon
       - name: Aeronautics
         description: 'Aeronautical initiation certificate obtained in 2013'
         icon: paper-airplane
+        icon_pack: heroicon
+  - name: First-aid
+    color: '#f016b6'
+    color_border: '#eb0e87'
+    items:
+      - name: Workplace first-aider
+        description: 'Since 2023'
+        icon: heart
+        icon_pack: heroicon
+      - name: Mental health first-aider
+        description: 'Since 2023'
+        icon: heart
         icon_pack: heroicon
 
 
@@ -127,7 +136,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=p6O01B8AAAAJ
   - icon: orcid
-    icon_pack: fas
+    icon_pack: brands
     link: https://orcid.org/0000-0003-2991-5573
   - icon: github
     icon_pack: fab
