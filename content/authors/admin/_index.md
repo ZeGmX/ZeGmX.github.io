@@ -68,28 +68,28 @@ skills:
       - name: C#
         description: ''
         percent: 70
-        icon: csharp
-        icon_pack: devicon
+        icon: devicon/csharp
+        icon_pack: fab
       - name: C++
         description: ''
         percent: 50
-        icon: cplusplus
-        icon_pack: devicon
+        icon: devicon/cplusplus
+        icon_pack: fab
       - name: Unity
         description: ''
         percent: 50
-        icon: unity
-        icon_pack: devicon
+        icon: devicon/unity
+        icon_pack: fas
       - name: R
         description: ''
         percent: 50
-        icon: r
-        icon_pack: devicon
+        icon: devicon/r
+        icon_pack: fas
       - name: Java
         description: ''
         percent: 40
-        icon: java
-        icon_pack: devicon
+        icon: devicon/java
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
