@@ -6,6 +6,11 @@ authors:
 - Thomas Howard
 - Claudio Pacchierotti
 - Maud Marchal
+
+author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
+
 date: '2023-10-25'
 doi: '10.1145/3611388'
 publishDate: '2024-04-24T13:26:12.338396Z'
