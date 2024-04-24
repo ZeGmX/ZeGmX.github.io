@@ -68,60 +68,79 @@ skills:
       - name: C#
         description: ''
         percent: 70
-        icon: devicon/csharp
-        icon_pack: fab
+        icon: csharp
+        icon_pack: custom
       - name: C++
         description: ''
         percent: 50
-        icon: devicon/cplusplus
-        icon_pack: fab
+        icon: c++
+        icon_pack: custom
       - name: Unity
         description: ''
         percent: 50
-        icon: devicon/unity
-        icon_pack: fas
+        icon: unity
+        icon_pack: fab
       - name: R
         description: ''
         percent: 50
-        icon: devicon/r
-        icon_pack: fas
+        icon: r
+        icon_pack: custom
       - name: Java
         description: ''
         percent: 40
-        icon: devicon/java
+        icon: java
+        icon_pack: fab
+  - name: Speaking
+    color: "#f016b6"
+    color_border: '#eb0e87'
+    items:
+      - name: French
+        description: 'Mother tongue'
+        percent: 100
+        icon: french_flag
+        icon_pack: custom
+      - name: English
+        description: 'C1'
+        percent: 95
+        icon: us-uk_flag
+        icon_pack: custom
+      - name: Spanish
+        description: 'Beginner level'
+        percent: 30
+        icon: spain_flag
+        icon_pack: custom
+  - name: First-aid
+    color: '#f016b600'
+    color_border: '#eb0e8700'
+    items:
+      - name: Workplace first-aider
+        description: 'Since 2023'
+        icon: band-aid
+        icon_pack: fas
+      - name: Mental health first-aider
+        description: 'Since 2023'
+        icon: brain
         icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#eeac0200'
+    color_border: '#f0bf2300'
     items:
       - name: Cinema and series
         description: ''
         icon: film
-        icon_pack: heroicon
+        icon_pack: fas
       - name: Fishing
         description: ''
-        icon: ''
-        icon_pack: heroicon
+        icon: fish
+        icon_pack: fas
       - name: Robotics and automation
         description: 'Arduino beginner'
-        icon: arduino
-        icon_pack: devicon
+        icon: robot
+        icon_pack: fas
       - name: Aeronautics
         description: 'Aeronautical initiation certificate obtained in 2013'
-        icon: paper-airplane
-        icon_pack: heroicon
-  - name: First-aid
-    color: '#f016b6'
-    color_border: '#eb0e87'
-    items:
-      - name: Workplace first-aider
-        description: 'Since 2023'
-        icon: heart
-        icon_pack: heroicon
-      - name: Mental health first-aider
-        description: 'Since 2023'
-        icon: heart
-        icon_pack: heroicon
+        icon: plane-departure
+        icon_pack: fas
 
 
 # Social/Academic Networking
@@ -138,8 +157,8 @@ social:
     label: 'Check my latest publications'
     display:
       header: true
-  - icon: icon:orcid
-    icon_pack: brands
+  - icon: orcid
+    icon_pack: fab
     link: https://orcid.org/0000-0003-2991-5573
   - icon: github
     icon_pack: fab
