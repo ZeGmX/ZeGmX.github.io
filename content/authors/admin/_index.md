@@ -1,50 +1,59 @@
 ---
 # Display name
-title: 吳健雄
+title: Lendy MULOT
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lendy
+last_name: MULOT
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: INSA Rennes
+    url: https://www.insa-rennes.fr/graduate-school-of-engineering.html
+  - name: IRISA
+    url: https://www.irisa.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Haptics
+  - Perception
+  - Virtual Reality
+  - Human-Computer Interactions
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Haptics / Computer Science
+      institution: INSA Rennes / IRISA, France
+      year: 2022 - 2025
+    - course: Master of Research (Computer Science)
+      institution: University of Rennes 1, France
+      year: 2020 - 2022
+    - course: Bachelor (Computer Science)
+      institution: University of Rennes 1, France
+      year: 2019 - 2020
+    - course: Magistère (Computer Science)
+      institution: École Normale Supérieure of Rennes, France
+      year: 2019 - 2022
+    - course: Preparatory classes (MPSI / MP*)
+      institution: Lycée Carnot, France
+      year: 2017 - 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,38 +62,58 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 85
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C#
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 70
+        icon: csharp
+        icon_pack: devicon
+      - name: C++
+        description: ''
+        percent: 50
+        icon: cplusplus
+        icon_pack: devicon
+      - name: Unity
+        description: ''
+        percent: 50
+        icon: unity
+        icon_pack: devicon
+      - name: R
+        description: ''
+        percent: 50
+        icon: r
+        icon_pack: devicon
+      - name: Java
         description: ''
         percent: 40
-        icon: database
-        icon_pack: fas
+        icon: java
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Cinema and series
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: film
+        icon_pack: heroicon
+      - name: Fishing
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 100
+        icon: ''
+        icon_pack: heroicon
+      - name: Robotics and automation
+        description: 'Arduino beginner'
+        percent: ''
+        icon: arduino
+        icon_pack: devicon
+      - name: Aeronautics
+        description: 'Aeronautical initiation certificate obtained in 2013'
+        icon: paper-airplane
+        icon_pack: heroicon
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,31 +123,28 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=p6O01B8AAAAJ
+  - icon: orcid
+    icon_pack: fas
+    link: https://orcid.org/0000-0003-2991-5573
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/ZeGmX
+    label: 'test label'
+    display:
+      header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 2nd year PhD candidate working on ultrasound mid-air haptics for virtual reality at INSA Rennes / IRISA.
 {style="text-align: justify;"}
