@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Lendy MULOT
+title: Lendy Mulot
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Lendy
-last_name: MULOT
+last_name: Mulot
 
 # Status emoji
 status:
@@ -83,8 +83,8 @@ skills:
       - name: R
         description: ''
         percent: 50
-        icon: r
-        icon_pack: custom
+        icon: r-project
+        icon_pack: fab
       - name: Java
         description: ''
         percent: 40
@@ -177,5 +177,9 @@ social:
 highlight_name: true
 ---
 
-I am a 2nd year PhD candidate working on ultrasound mid-air haptics for virtual reality at INSA Rennes / IRISA.
 {style="text-align: justify;"}
+I am a 2nd year PhD candidate working on ultrasound mid-air haptics for virtual reality at INSA Rennes / IRISA.
+
+![ZeGmX' stats](https://github-readme-stats.vercel.app/api?username=ZeGmX&show_icons=true&hide=issues,contribs&theme=dracula)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZeGmX&theme=dracula&title=MultiLanguage,Commits,Experience,Stars,Repositories&column=5)](https://github.com/ZeGmX/)

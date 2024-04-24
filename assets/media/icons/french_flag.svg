@@ -1,1 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600"><path fill="#CE1126" d="M0 0h900v600H0"/><path fill="#fff" d="M0 0h600v600H0"/><path fill="#002654" d="M0 0h300v600H0"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="french_flag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.4841611"
+     inkscape:cx="305.22294"
+     inkscape:cy="267.15429"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="28.701679,68.436656"
+       orientation="0,-1"
+       id="guide225"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="#ce1126"
+       d="M 0.02273585,21.484597 H 135.82 V 112.01618 H 0.02273585"
+       id="path21"
+       style="stroke-width:0.150886" />
+    <path
+       fill="#ffffff"
+       d="M 0.02273585,21.484597 H 90.554243 V 112.01618 H 0.02273585"
+       id="path23"
+       style="stroke-width:0.150886" />
+    <path
+       fill="#002654"
+       d="M 0.02273585,21.484597 H 45.28849 V 112.01618 H 0.02273585"
+       id="path25"
+       style="stroke-width:0.150886" />
+  </g>
+</svg>
