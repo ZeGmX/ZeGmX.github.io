@@ -135,13 +135,16 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=p6O01B8AAAAJ
+    label: 'Check my latest publications'
+    display:
+      header: true
   - icon: icon:orcid
     icon_pack: brands
     link: https://orcid.org/0000-0003-2991-5573
   - icon: github
     icon_pack: fab
     link: https://github.com/ZeGmX
-    label: 'test label'
+    label: 'Follow me on Github'
     display:
       header: true
   # Link to a PDF of your resume/CV.
