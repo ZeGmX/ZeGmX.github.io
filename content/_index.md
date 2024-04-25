@@ -43,7 +43,7 @@ sections:
           date_start: '2022-10-03'
           date_end: ''
           description: |2-
-              Design of coupling schemes for vibro-tactile rendering in virtual reality
+              *Design of coupling schemes for ultrasound haptic rendering in virtual reality*
               
               Supervised by Maud Marchal and Claudio Pacchierotti - Rainbow team
         - title: Research-oriented internship
@@ -54,7 +54,7 @@ sections:
           date_start: '2022-02-01'
           date_end: '2022-07-31'
           description: |2-
-              Ultrasound haptic rendering for bimanual interactions in virtual reality
+              *Ultrasound haptic rendering for bimanual interactions in virtual reality*
               
               Supervised by Thomas Howard, Maud Marchal, and Claudio Pacchierotti - Rainbow team
         - title: Research-oriented internship
@@ -65,7 +65,7 @@ sections:
           date_start: '2021-05-01'
           date_end: '2021-07-31'
           description: |2-
-              Adapting DOLPHIN (framework for the design and evaluation of ultrasound mid-air haptic stimuli, developed during my research project) to a new API enabling the control of the haptic  interfaces by Ultraleap
+              *Adapting DOLPHIN (framework for the design and evaluation of ultrasound mid-air haptic stimuli, developed during my research project) to a new API enabling the control of the haptic  interfaces by Ultraleap*
 
               https://gitlab.com/h-reality/dolphin/-/tree/ultraleap_sensation
               
@@ -78,7 +78,7 @@ sections:
           date_start: '2020-09-15'
           date_end: '2021-05-31'
           description: |2-
-              Software for the study of the perception of geometric shapes rendered using ultrasound haptic interface
+              *Software for the study of the perception of geometric shapes rendered using ultrasound haptic interface*
 
               https://gitlab.com/h-reality/dolphin
               
@@ -91,7 +91,7 @@ sections:
           date_start: '2020-05-01'
           date_end: '2020-07-31'
           description: |2-
-              Implementing a multi-view stereo method for temporally consistent facial capture
+              *Implementing a multi-view stereo method for temporally consistent facial capture*
 
               https://github.com/ZeGmX/facial_capture_stereo
               
@@ -189,11 +189,11 @@ sections:
       text: |2-
         - <font color="#3cb5b5">[2022  - 2023]</font> Sarah Emery (M1 SIF, ENS Rennes, University of Rennes)
           
-          Dolphin3D: Rendering 3D objects using ultrasound haptic interfaces
+          *Dolphin3D: Rendering 3D objects using ultrasound haptic interfaces*
 
           Co-supervised with Thomas Howard
     design:
-      columns: '2'  
+      columns: '1'  
   - block: markdown
     content:
       title: Teaching
@@ -291,7 +291,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        
+        If you have any questions about my research or if you would like to collaborate, feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: lendy.mulot [at] irisa.fr
       phone: +33 (0)7 84 09 04 96
