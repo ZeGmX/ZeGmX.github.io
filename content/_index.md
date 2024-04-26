@@ -177,7 +177,7 @@ sections:
         
           **international journals**: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Haptics (ToH)
         
-          **international conferences**:  IEEE International Conference on Virtual Reality and 3D User Interfaces (VR), IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE World Haptics (WHC), IEEE Haptics Symposium, ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI)
+          **international conferences**:  IEEE International Conference on Virtual Reality and 3D User Interfaces (VR), IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE World Haptics (WHC), IEEE Haptics Symposium, EuroHaptics, ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI)
 
         - <font color="#3cb5b5">[July 2021]</font> Student volunteer at the IEEE World Haptics Conference (WHC)
     design:
