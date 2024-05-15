@@ -43,9 +43,14 @@ sections:
           date_start: '2022-10-03'
           date_end: ''
           description: |2-
-              *Design of coupling schemes for ultrasound haptic rendering in virtual reality*
+              *<p align="justify">Design of coupling schemes for ultrasound haptic rendering in virtual reality</p>*
               
-              Supervised by Maud Marchal and Claudio Pacchierotti - Rainbow team
+              <p align="justify">
+                Supervised by 
+                <a href=https://people.irisa.fr/Maud.Marchal/index.htm target=_blank>Maud Marchal</a>, 
+                and <a href=https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/ target=_blank>Claudio Pacchierotti</a> 
+                - <a href=https://team.inria.fr/rainbow/ target=_blank>Rainbow team</a>
+              </p>
         - title: Research-oriented internship
           company: CNRS / IRISA
           company_url: ''
@@ -54,9 +59,15 @@ sections:
           date_start: '2022-02-01'
           date_end: '2022-07-31'
           description: |2-
-              *Ultrasound haptic rendering for bimanual interactions in virtual reality*
+              *<p align="justify">Ultrasound haptic rendering for bimanual interactions in virtual reality</p>*
               
-              Supervised by Thomas Howard, Maud Marchal, and Claudio Pacchierotti - Rainbow team
+              <p align="justify">
+                Supervised by 
+                <a href=https://thoward.eu/ target=_blank>Thomas Howard</a>, 
+                <a href=https://people.irisa.fr/Maud.Marchal/index.htm target=_blank>Maud Marchal</a>, 
+                and <a href=https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/ target=_blank>Claudio Pacchierotti</a> 
+                - <a href=https://team.inria.fr/rainbow/ target=_blank>Rainbow team</a>
+              </p>
         - title: Research-oriented internship
           company: Ultraleap
           company_url: ''
@@ -65,11 +76,15 @@ sections:
           date_start: '2021-05-01'
           date_end: '2021-07-31'
           description: |2-
-              *Adapting DOLPHIN (framework for the design and evaluation of ultrasound mid-air haptic stimuli, developed during my research project) to a new API enabling the control of the haptic  interfaces by Ultraleap*
+              *<p align="justify">Adapting DOLPHIN (framework for the design and evaluation of ultrasound mid-air haptic stimuli, developed during my research project) to a new API enabling the control of the haptic  interfaces by Ultraleap</p>*
 
               https://gitlab.com/h-reality/dolphin/-/tree/ultraleap_sensation
               
-              Supervised by William Frier - Ultraleap
+              <p align="justify">
+                Supervised by 
+                <a href=https://scholar.google.co.uk/citations?user=xFWd6ZoAAAAJ&hl=en target=_blank>William Frier</a> 
+                - <a href=https://www.ultraleap.com/ target=_blank>Ultraleap</a>
+              </p>
         - title: Research project
           company: IRISA
           company_url: ''
@@ -78,11 +93,18 @@ sections:
           date_start: '2020-09-15'
           date_end: '2021-05-31'
           description: |2-
-              *Software for the study of the perception of geometric shapes rendered using ultrasound haptic interface*
+              *<p align=justify>Software for the study of the perception of geometric shapes rendered using ultrasound haptic interface</p>*
 
               https://gitlab.com/h-reality/dolphin
               
-              Supervised by Thomas Howard, Guillaume Gicquel, Maud Marchal, and Claudio Pacchierotti - Rainbow team
+              <p align=justify>
+                Supervised by 
+                <a href=https://thoward.eu/ target=_blank>Thomas Howard</a>, 
+                <a href=https://team.inria.fr/rainbow/fr/guillaume-gicquel/ target=_blank>Guillaume Gicquel</a>,
+                <a href=https://people.irisa.fr/Maud.Marchal/index.htm target=_blank>Maud Marchal</a>, 
+                and <a href=https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/ target=_blank>Claudio Pacchierotti</a> 
+                - <a href=https://team.inria.fr/rainbow/ target=_blank>Rainbow team</a>
+              </p>
         - title: Research-oriented internship
           company: IRISA
           company_url: ''
@@ -91,11 +113,15 @@ sections:
           date_start: '2020-05-01'
           date_end: '2020-07-31'
           description: |2-
-              *Implementing a multi-view stereo method for temporally consistent facial capture*
+              *<p align=justify>Implementing a multi-view stereo method for temporally consistent facial capture</p>*
 
               https://github.com/ZeGmX/facial_capture_stereo
               
-              Supervised by Adnane Boukhayma - MimeTIC team
+              <p align=justify>
+                Supervised by 
+                <a href=https://boukhayma.github.io/ target=_blank>Adnane Boukhayma</a>
+                - <a href=https://team.inria.fr/mimetic/ target=_blank>MimeTIC team</a>
+              </p>
     design:
       columns: '2'
   # - block: accomplishments
@@ -172,14 +198,14 @@ sections:
       title: Service
       subtitle: ''
       text: |2-
-        - <font color="#3cb5b5">[2023 - Present]</font> Student representative to the IEEE RAS Technical Committee on Haptics 
-        - <font color="#3cb5b5">[2022 - Present]</font> Reviewer
+        - <p align=justify><font color="#3cb5b5">[2023 - Present]</font> Student representative to the IEEE RAS Technical Committee on Haptics</p>
+        - <p align=justify><font color="#3cb5b5">[2022 - Present]</font> Reviewer</p>
         
-          **international journals**: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Haptics (ToH)
+          <p align=justify><b>international journals</b>: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Haptics (ToH)</p>
         
-          **international conferences**:  IEEE International Conference on Virtual Reality and 3D User Interfaces (VR), IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE World Haptics (WHC), IEEE Haptics Symposium, ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI)
+          <p align=justify><b>international conferences</b>: IEEE International Conference on Virtual Reality and 3D User Interfaces (VR), IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE World Haptics (WHC), IEEE Haptics Symposium, ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI)</p>
 
-        - <font color="#3cb5b5">[July 2021]</font> Student volunteer at the IEEE World Haptics Conference (WHC)
+        - <p align=justify><font color="#3cb5b5">[July 2021]</font> Student volunteer at the IEEE World Haptics Conference (WHC)</p>
     design:
       columns: '1'
   - block: markdown
@@ -187,11 +213,11 @@ sections:
       title: Supervision
       subtitle: ''
       text: |2-
-        - <font color="#3cb5b5">[2022  - 2023]</font> Sarah Emery (M1 SIF, ENS Rennes, University of Rennes)
+        - <p align=justify><font color="#3cb5b5">[2022  - 2023]</font> Sarah Emery (M1 SIF, ENS Rennes, University of Rennes)</p>
           
-          *Dolphin3D: Rendering 3D objects using ultrasound haptic interfaces*
+          *<p align=justify>Dolphin3D: Rendering 3D objects using ultrasound haptic interfaces</p>*
 
-          Co-supervised with Thomas Howard
+          <p align=justify>Co-supervised with <a href=https://thoward.eu/ target=_blank>Thomas Howard</a><p align=justify>
     design:
       columns: '1'  
   - block: markdown
@@ -199,10 +225,10 @@ sections:
       title: Teaching
       subtitle: ''
       text: |2-
-        - <font color="#3cb5b5">[2024]</font> Lecture-tutorial and practical sessions • Java programing and algorithmic (INSA Rennes, STPI department, 2nd year)
-        - <font color="#3cb5b5">[2023]</font> Lecture-tutorial and practical sessions • Initiation to Java programming (INSA Rennes, STPI department, 1st year)
-        - <font color="#3cb5b5">[2022 - 2023]</font> Practical sessions • Design of innovative applications for health (INSA Rennes, CS department, 4th and 5th years)
-        - <font color="#3cb5b5">[2022]</font> Project • Internet of things (INSA Rennes, CS department, 4th and 5th years)
+        - <p align=justify><font color="#3cb5b5">[2024]</font> Lecture-tutorial and practical sessions • Java programing and algorithmic (INSA Rennes, STPI department, 2nd year)</p>
+        - <p align=justify><font color="#3cb5b5">[2023]</font> Lecture-tutorial and practical sessions • Initiation to Java programming (INSA Rennes, STPI department, 1st year)</p>
+        - <p align=justify><font color="#3cb5b5">[2022 - 2023]</font> Practical sessions • Design of innovative applications for health (INSA Rennes, CS department, 4th and 5th years)</p>
+        - <p align=justify><font color="#3cb5b5">[2022]</font> Project • Internet of things (INSA Rennes, CS department, 4th and 5th years)</p>
     design:
       columns: '1'      
   # - block: portfolio
