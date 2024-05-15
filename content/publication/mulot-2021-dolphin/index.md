@@ -20,7 +20,7 @@ abstract: '<p align="justify">Ultrasound mid-air haptic interfaces can display h
 
 featured: true
 
-url_pdf: publication/mulot-2021-dolphin/manuscript.pdf
+url_pdf: ''
 url_code: 'https://gitlab.com/h-reality/dolphin'
 url_dataset: ''
 url_poster: ''
@@ -29,7 +29,7 @@ url_slides: ''
 url_source: ''
 url_video: 'https://youtu.be/Cvmon1_DnHM?si=dX40i_5fz-3j0Lpj&t=1293'
 
-#links:
-#- name: URL
-#  url: https://doi.org/10.1145/3474451.3476232
+links:
+- name: HAL
+  url: https://inria.hal.science/hal-03298804
 ---

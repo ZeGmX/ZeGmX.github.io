@@ -274,6 +274,8 @@ sections:
       text: |-
         {{% callout note %}}
         Browse the complete publication list [here](./publication/).
+        
+        All PDFs are available on HAL.
         {{% /callout %}}
       filters:
         folders:
