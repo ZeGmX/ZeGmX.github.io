@@ -89,7 +89,7 @@ sections:
           company: IRISA
           company_url: ''
           company_logo: irisa
-          location: Bristol, UK
+          location: Rennes, France
           date_start: '2020-09-15'
           date_end: '2021-05-31'
           description: |2-
@@ -109,7 +109,7 @@ sections:
           company: IRISA
           company_url: ''
           company_logo: irisa
-          location: Bristol, UK
+          location: Rennes, France
           date_start: '2020-05-01'
           date_end: '2020-07-31'
           description: |2-
