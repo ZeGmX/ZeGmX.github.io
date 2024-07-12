@@ -2,7 +2,7 @@
 title: Can We Increase the Perceived Intensity of Mid-Air Haptic Shapes Rendered With
   Dynamic Tactile Pointers?
 authors:
-- Lendy Mulot<
+- Lendy Mulot
 - Thomas Howard
 - Pacchierotti Claudio
 - Maud Marchal
