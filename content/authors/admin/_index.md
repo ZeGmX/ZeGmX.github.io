@@ -177,7 +177,7 @@ social:
 highlight_name: true
 ---
 
-Hello, I'm Lendy! I am a 2nd year PhD candidate in the [Sensor-based Robotics and Human Interaction (Rainbow)](https://team.inria.fr/rainbow/)  team at [INSA Rennes](https://www.insa-rennes.fr/graduate-school-of-engineering.html) and [IRISA](https://www.irisa.fr/en) in Rennes, France. 
+Hello, I'm Lendy! I am a 3rd year PhD candidate in the [Sensor-based Robotics and Human Interaction (Rainbow)](https://team.inria.fr/rainbow/)  team at [INSA Rennes](https://www.insa-rennes.fr/graduate-school-of-engineering.html) and [IRISA](https://www.irisa.fr/en) in Rennes, France. 
 {style="text-align: justify;"}
 
 I am passionate about haptics, and especially about the rendering and perception of ultrasound mid-air haptic feedback. I am also interested in virtual reality, human-computer interactions, and perception in general.
