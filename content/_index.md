@@ -213,7 +213,13 @@ sections:
       title: Supervision
       subtitle: ''
       text: |2-
-        - <p align=justify><font color="#3cb5b5">[2022  - 2023]</font> Sarah Emery (M1 SIF, ENS Rennes, University of Rennes)</p>
+        - <p align=justify><font color="#3cb5b5">[2025]</font> <b>Eileen Mathey</b> (M2 SIF, INSA Rennes, University of Rennes)</p>
+          
+          *<p align=justify>Tactile Perception of Circles Generated using Ultrasound Mid-Air Haptics</p>*
+
+          <p align=justify>Co-supervised with <a href=https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/ target=_blank>Claudio Pacchierotti</a> and <a href=https://people.irisa.fr/Maud.Marchal/index.htm target=_blank>Maud Marchal</a><p align=justify>
+
+        - <p align=justify><font color="#3cb5b5">[2022  - 2023]</font> <b>Sarah Emery</b> (M1 SIF, ENS Rennes, University of Rennes)</p>
           
           *<p align=justify>Dolphin3D: Rendering 3D objects using ultrasound haptic interfaces</p>*
 
@@ -225,9 +231,9 @@ sections:
       title: Teaching
       subtitle: ''
       text: |2-
-        - <p align=justify><font color="#3cb5b5">[2024]</font> Lecture-tutorial and practical sessions • Java programing and algorithmic (INSA Rennes, STPI department, 2nd year)</p>
+        - <p align=justify><font color="#3cb5b5">[2024-2025]</font> Lecture-tutorial and practical sessions • Java programing and algorithmic (INSA Rennes, STPI department, 2nd year)</p>
+        - <p align=justify><font color="#3cb5b5">[2022 - 2024]</font> Practical sessions • Design of innovative applications for health (INSA Rennes, CS department, 4th and 5th years)</p>
         - <p align=justify><font color="#3cb5b5">[2023]</font> Lecture-tutorial and practical sessions • Initiation to Java programming (INSA Rennes, STPI department, 1st year)</p>
-        - <p align=justify><font color="#3cb5b5">[2022 - 2023]</font> Practical sessions • Design of innovative applications for health (INSA Rennes, CS department, 4th and 5th years)</p>
         - <p align=justify><font color="#3cb5b5">[2022]</font> Project • Internet of things (INSA Rennes, CS department, 4th and 5th years)</p>
     design:
       columns: '1'      
