@@ -198,7 +198,8 @@ sections:
       title: Service
       subtitle: ''
       text: |2-
-        - <p align=justify><font color="#3cb5b5">[2023 - Present]</font> Student representative to the IEEE RAS Technical Committee on Haptics</p>
+        - <p align=justify><font color="#3cb5b5">[2025 - 2026]</font> Communication and Web Co-Chair for EuroHaptics 2026</p>
+        - <p align=justify><font color="#3cb5b5">[2023 - 2025]</font> Student representative to the IEEE RAS Technical Committee on Haptics</p>
         - <p align=justify><font color="#3cb5b5">[2022 - Present]</font> Reviewer</p>
         
           <p align=justify><b>international journals</b>: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Haptics (ToH)</p>
