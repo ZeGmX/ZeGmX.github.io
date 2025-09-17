@@ -219,6 +219,12 @@ sections:
           *<p align=justify>Tactile Perception of Circles Generated using Ultrasound Mid-Air Haptics</p>*
 
           <p align=justify>Co-supervised with <a href=https://team.inria.fr/rainbow/fr/team/claudio-pacchierotti/ target=_blank>Claudio Pacchierotti</a> and <a href=https://people.irisa.fr/Maud.Marchal/index.htm target=_blank>Maud Marchal</a><p align=justify>
+        
+        - <p align=justify><font color="#3cb5b5">[2025]</font> <b>Visaki Nithianantham</b> (year 3 at INSA Rennes, University of Rennes)</p>
+          
+          *<p align=justify>Visualization of Ultrasound Mid-Air Haptic Stimuli</p>*
+
+          <p align=justify>Co-supervised with <a href=https://people.irisa.fr/Maud.Marchal/index.htm target=_blank>Maud Marchal</a><p align=justify>
 
         - <p align=justify><font color="#3cb5b5">[2022  - 2023]</font> <b>Sarah Emery</b> (M1 SIF, ENS Rennes, University of Rennes)</p>
           
