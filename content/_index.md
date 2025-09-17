@@ -43,7 +43,7 @@ sections:
           date_start: '2022-10-03'
           date_end: ''
           description: |2-
-              *<p align="justify">Design of coupling schemes for ultrasound haptic rendering in virtual reality</p>*
+              *<p align="justify">Advancing ultrasound mid-air haptics: perception studies, rendering methods, and design of virtual reality interactions</p>*
               
               <p align="justify">
                 Supervised by 

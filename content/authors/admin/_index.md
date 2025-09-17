@@ -189,5 +189,5 @@ Hello, I'm Lendy! I am a 3rd year PhD candidate in the [Sensor-based Robotics an
 I am passionate about haptics, and especially about the rendering and perception of ultrasound mid-air haptic feedback. I am also interested in virtual reality, human-computer interactions, and perception in general.
 {style="text-align: justify;"}
 
-I am currently pursuing a PhD about the *design of coupling schemes for ultrasound haptic rendering in virtual reality*, under the supervision of [Maud Marchal](https://team.inria.fr/rainbow/team/maud-marchal/) (INSA Rennes, IUF) and [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/) (CNRS).
+I am currently pursuing a PhD about *advancing ultrasound mid-air haptics: perception studies, rendering methods, and design of virtual reality interactions*, under the supervision of [Maud Marchal](https://team.inria.fr/rainbow/team/maud-marchal/) (INSA Rennes, IUF) and [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/) (CNRS).
 {style="text-align: justify;"}
