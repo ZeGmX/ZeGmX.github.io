@@ -239,7 +239,7 @@ sections:
       subtitle: ''
       text: |2-
         - <p align=justify><font color="#3cb5b5">[2024-2025]</font> Lecture-tutorial and practical sessions • Java programing and algorithmic (INSA Rennes, STPI department, 2nd year)</p>
-        - <p align=justify><font color="#3cb5b5">[2022 - 2024]</font> Practical sessions • Design of innovative applications for health (INSA Rennes, CS department, 4th and 5th years)</p>
+        - <p align=justify><font color="#3cb5b5">[2022 - 2025]</font> Practical sessions • Design of innovative applications for health (INSA Rennes, CS department, 4th and 5th years)</p>
         - <p align=justify><font color="#3cb5b5">[2023]</font> Lecture-tutorial and practical sessions • Initiation to Java programming (INSA Rennes, STPI department, 1st year)</p>
         - <p align=justify><font color="#3cb5b5">[2022]</font> Project • Internet of things (INSA Rennes, CS department, 4th and 5th years)</p>
     design:
