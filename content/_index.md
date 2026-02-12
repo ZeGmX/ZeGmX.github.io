@@ -15,10 +15,10 @@ sections:
     content:
       title: Skills and Hobbies
       text: '<a href="https://github.com/ZeGmX/" target="_blank" rel="noopener"><div class="d-flex justify-content-center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZeGmX&amp;show_icons=true&amp;hide=issues,contribs&amp;theme=dracula" alt="ZeGmX&amp;rsquo; stats" loading="lazy" style="margin: 20px;">
+      <img src="https://github-stats-extended.vercel.app/api?username=ZeGmX&amp;show_icons=true&amp;hide=issues,contribs&amp;theme=dracula" alt="ZeGmX&amp;rsquo; stats" loading="lazy" style="margin: 20px;">
       </div></a>
       <a href="https://github.com/ZeGmX/" target="_blank" rel="noopener"><div class="d-flex justify-content-center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ZeGmX&amp;theme=dracula&amp;title=MultiLanguage,Commits,Experience,Stars,Repositories&amp;column=5" alt="trophy" loading="lazy"></div></a>'
+      <img src="https://github-profile-trophy-kannan.vercel.app/?username=ZeGmX&amp;theme=dracula&amp;title=MultiLanguage,Commits,Experience,Stars,Repositories&amp;column=5" alt="trophy" loading="lazy"></div></a>'
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
@@ -35,13 +35,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: INSA Rennes / IRISA
+          company_url: ''
+          company_logo: insa
+          location: Rennes, France
+          date_start: '2026-01-12'
+          date_end: ''
+          description: |2-
+              <p align="justify"><i>Design of 3D interaction techniques in virtual reality using ultrasound mid-air haptic interfaces</i> (as part of the <a href="https://advhandture.insa-rennes.fr/" target="_blank">ADVHANDTURE</a> ERC project)</p>
+              
+              <p align="justify">
+                Supervised by 
+                <a href=https://people.irisa.fr/Maud.Marchal/index.htm target=_blank>Maud Marchal</a> - <a href=https://team.inria.fr/rainbow/ target=_blank>Rainbow team</a>
+              </p>
         - title: PhD Candidate
           company: INSA Rennes / IRISA
           company_url: ''
           company_logo: insa
           location: Rennes, France
           date_start: '2022-10-03'
-          date_end: ''
+          date_end: '2025-12-31'
           description: |2-
               *<p align="justify">Advancing ultrasound mid-air haptics: perception studies, rendering methods, and design of virtual reality interactions</p>*
               
@@ -238,7 +252,7 @@ sections:
       title: Teaching
       subtitle: ''
       text: |2-
-        - <p align=justify><font color="#3cb5b5">[2024-2025]</font> Lecture-tutorial and practical sessions • Java programing and algorithmic (INSA Rennes, STPI department, 2nd year)</p>
+        - <p align=justify><font color="#3cb5b5">[2024-2026]</font> Lecture-tutorial and practical sessions • Java programing and algorithmic (INSA Rennes, STPI department, 2nd year)</p>
         - <p align=justify><font color="#3cb5b5">[2022 - 2025]</font> Practical sessions • Design of innovative applications for health (INSA Rennes, CS department, 4th and 5th years)</p>
         - <p align=justify><font color="#3cb5b5">[2023]</font> Lecture-tutorial and practical sessions • Initiation to Java programming (INSA Rennes, STPI department, 1st year)</p>
         - <p align=justify><font color="#3cb5b5">[2022]</font> Project • Internet of things (INSA Rennes, CS department, 4th and 5th years)</p>
