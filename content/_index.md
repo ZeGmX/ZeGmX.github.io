@@ -18,7 +18,7 @@ sections:
       <img src="https://github-stats-extended.vercel.app/api?username=ZeGmX&amp;show_icons=true&amp;hide=issues,contribs&amp;theme=dracula" alt="ZeGmX&amp;rsquo; stats" loading="lazy" style="margin: 20px;">
       </div></a>
       <a href="https://github.com/ZeGmX/" target="_blank" rel="noopener"><div class="d-flex justify-content-center">
-      <img src="https://github-profile-trophy-kannan.vercel.app/?username=ZeGmX&amp;theme=dracula&amp;title=MultiLanguage,Commits,Experience,Stars,Repositories&amp;column=5" alt="trophy" loading="lazy"></div></a>'
+      <img src="https://github-profile-repo.vercel.app/?username=ZeGmX&amp;theme=dracula&amp;title=MultiLanguage,Commits,Experience,Stars,Repositories&amp;column=5" alt="trophy" loading="lazy"></div></a>'
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
