@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: INSA Rennes
-    url: https://www.insa-rennes.fr/graduate-school-of-engineering.html
-  - name: IRISA
-    url: https://www.irisa.fr/en
+  - name: Grenoble-Alpes University (UGA)
+    url: https://www.univ-grenoble-alpes.fr/english/
+  - name: Computer Science Laboratory of Grenoble (LIG)
+    url: https://www.liglab.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -45,15 +45,15 @@ education:
     - course: Master of Research (Computer Science)
       institution: University of Rennes 1, France
       year: 2020 - 2022
-    - course: Bachelor (Computer Science)
-      institution: University of Rennes 1, France
-      year: 2019 - 2020
+    # - course: Bachelor (Computer Science)
+    #   institution: University of Rennes 1, France
+    #   year: 2019 - 2020
     - course: Magistère (Computer Science)
       institution: École Normale Supérieure of Rennes, France
       year: 2019 - 2022
-    - course: Preparatory classes (MPSI / MP*)
-      institution: Lycée Carnot, France
-      year: 2017 - 2019
+    # - course: Preparatory classes (MPSI / MP*)
+    #   institution: Lycée Carnot, France
+    #   year: 2017 - 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -183,11 +183,10 @@ social:
 highlight_name: true
 ---
 
-Hello, I'm Lendy! I am a postdoctoral researcher in the [Sensor-based Robotics and Human Interaction (Rainbow)](https://team.inria.fr/rainbow/)  team at [INSA Rennes](https://www.insa-rennes.fr/graduate-school-of-engineering.html) and [IRISA](https://www.irisa.fr/en) in Rennes, France. 
+Hello, I'm Lendy! I am an assistant professor at the [Grenoble-Alpes University](https://www.univ-grenoble-alpes.fr/english/) (UGA) and a member of the [Computer Science Laboratory of Grenoble](https://www.liglab.fr/en/) (LIG), in the [Engineering Human-Computer Interaction](http://iihm.imag.fr/en/) (IIHM) group. 
 {style="text-align: justify;"}
 
-I am passionate about haptics, and especially about the rendering and perception of ultrasound mid-air haptic feedback. I am also interested in virtual reality, human-computer interactions, and perception in general.
+I am passionate about **haptics**, whether it is about the design of **rendering** techniques, the study of **perception**, or the integration of haptic feedback in **interactive** scenarios.
+While my past research has mostly focused on ultrasound mid-air haptics, I am open and interested in all types of haptic feedback.
 {style="text-align: justify;"}
 
-I am currently working on the [ADVHANDTURE](https://advhandture.insa-rennes.fr/) ERC project, about the *design of 3D interaction techniques in virtual reality using ultrasound mid-air haptic interfaces*, under the supervision of [Maud Marchal](https://team.inria.fr/rainbow/team/maud-marchal/) (INSA Rennes, IUF).
-{style="text-align: justify;"}

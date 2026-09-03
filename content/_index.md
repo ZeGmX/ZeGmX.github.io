@@ -35,13 +35,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor
+          company: UGA / LIG
+          company_url: ''
+          company_logo: uga
+          location: Grenoble, France
+          date_start: '2026-09-01'
+          date_end: ''
+          description: |2-
+              <p align="justify">Part of the <a href="http://iihm.imag.fr/en/" target="_blank">Engineering Human-Computer Interaction</a> (IIHM) group on the research side, and the <a href="https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/but-bachelor-universitaire-de-technologie-BUT/but-metiers-du-multimedia-et-de-l-internet-KI4YX5MN.html" target="_blank">Multimedia and Internet</a> department on the teaching side</p>
         - title: Postdoctoral Researcher
           company: INSA Rennes / IRISA
           company_url: ''
           company_logo: insa
           location: Rennes, France
           date_start: '2026-01-12'
-          date_end: ''
+          date_end: '2026-08-31'
           description: |2-
               <p align="justify"><i>Design of 3D interaction techniques in virtual reality using ultrasound mid-air haptic interfaces</i> (as part of the <a href="https://advhandture.insa-rennes.fr/" target="_blank">ADVHANDTURE</a> ERC project)</p>
               
@@ -348,14 +357,14 @@ sections:
       text: |-
         If you have any questions about my research or if you would like to collaborate, feel free to contact me!
       # Contact (add or remove contact options as necessary)
-      email: lendy.mulot [at] irisa.fr
+      email: lendy.mulot [at] univ-grenoble-alpes.fr
       phone: +33 (0)7 84 09 04 96
       # appointment_url: 
       address:
-        street: INSA Rennes, Bat. 18, Office 101
+        street: IMAG building, Floor 3, Office 357
         city:
         region: 
-        postcode: 35700 Rennes
+        postcode: 38401 Saint-Martin-d'Hères
         country:
         country_code:
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -364,8 +373,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '48.120160'
-        longitude: '-1.634515'  
+        latitude: '45.19013206678315'
+        longitude: '5.767355320137269'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
